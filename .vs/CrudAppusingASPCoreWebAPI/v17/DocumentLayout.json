@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web\\CrudAppusingASPCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|d:\\web\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\controllers\\studentcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\controllers\\studentcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|d:\\web\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|d:\\web\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|d:\\web\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\studentcontrollercs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\studentcontrollercs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|d:\\web\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\studentcontrollercs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\studentcontrollercs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|d:\\web\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\studentcontrollercs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\studentcontrollercs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|d:\\web\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\studentcontrollercs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\studentcontrollercs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|d:\\web\\crudappusingaspcorewebapi\\crudappusingaspcorewebapi\\views\\studentcontrollercs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14912B87-18A1-43EF-BAFE-CD4F52569195}|CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI.csproj|solutionrelative:crudappusingaspcorewebapi\\views\\studentcontrollercs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Edit.cshtml",
+              "ToolTip": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Edit.cshtml",
+              "RelativeToolTip": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T12:58:17.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Create.cshtml",
+              "RelativeDocumentMoniker": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Create.cshtml",
+              "ToolTip": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Create.cshtml",
+              "RelativeToolTip": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T12:33:20.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Index.cshtml",
+              "ToolTip": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Index.cshtml",
+              "RelativeToolTip": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T12:20:38.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentControllercs.cs",
+              "DocumentMoniker": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Controllers\\StudentControllercs.cs",
+              "RelativeDocumentMoniker": "CrudAppusingASPCoreWebAPI\\Controllers\\StudentControllercs.cs",
+              "ToolTip": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Controllers\\StudentControllercs.cs",
+              "RelativeToolTip": "CrudAppusingASPCoreWebAPI\\Controllers\\StudentControllercs.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwHcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:02:50.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CrudAppusingASPCoreWebAPI\\Models\\Student.cs",
+              "ToolTip": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "CrudAppusingASPCoreWebAPI\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:58:32.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CrudAppusingASPCoreWebAPI\\Program.cs",
+              "ToolTip": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Program.cs",
+              "RelativeToolTip": "CrudAppusingASPCoreWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:23:15.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Details.cshtml",
+              "RelativeDocumentMoniker": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Details.cshtml",
+              "ToolTip": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Details.cshtml",
+              "RelativeToolTip": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T13:08:29.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Delete.cshtml",
+              "ToolTip": "D:\\Web\\CrudAppusingASPCoreWebAPI\\CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Delete.cshtml",
+              "RelativeToolTip": "CrudAppusingASPCoreWebAPI\\Views\\StudentControllercs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T13:14:34.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
